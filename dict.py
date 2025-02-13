@@ -33,6 +33,7 @@ marks ={
 # print(marks.get("english1"))
 # print(marks['english2'])
 
-print(marks.pop("english")) #delete the value with its key.
+# print(marks.pop("english")) #delete the value with its key.
 print(marks) 
+
 
